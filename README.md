@@ -1,4 +1,4 @@
-# Dice App
+# Dicee App
 
 The Dice App is a simple mobile application that simulates rolling a dice. Each time the user presses a button, the app will display a random dice image, mimicking the experience of rolling a real dice.
 
